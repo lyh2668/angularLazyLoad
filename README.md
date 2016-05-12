@@ -1,3 +1,8 @@
+一个使用了ocLazyLoad进行对AngularJS模块懒加载的Demo，
+可以直接用于新建项目。
+使用之前需要bower install oclazyload.
+
+
 Ionic App Base
 =====================
 
